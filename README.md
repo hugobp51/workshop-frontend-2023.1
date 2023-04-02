@@ -6,7 +6,6 @@ Projeto realizado para o desafio da Fábrica de Software, na Unipê. O objetivo 
 - [x] Construído com React, Phosphor React e TailwindCSS
 - [x] Projeto Responsivo
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/104099580/226214838-9f4b7bc3-1477-418d-bb9d-abae15aa7977.gif)
 
 # 🚀 Tecnologias Utilizadas
 
